@@ -3,7 +3,7 @@ Hey 👋 I’m Santhosh Sachin 🙋‍♂️<br />
 A passionate Developer cum Engineer from IN <br />
 Interested in Full-stack Web 🌐 and Web3 🕸️ Development <br />
 From design to development I love the entire process of building software 🤖 <br />
-Love contributing to Open Source projects👨‍💻<br />
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_santhosh_404_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-s-56715821b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17216312/santhosh-sachin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_santhosh_404_) 
