@@ -2,8 +2,8 @@
 Hey 👋 I’m Santhosh Sachin 🙋‍♂️<br />
 LinkedIN : https://www.linkedin.com/in/santhosh-s-56715821b/ <br />
 A passionate Developer cum Engineer from IN <br />
-Interested in Full-stack Web 🌐 and Web3 🕸️ Development <br />
-From design to development I love the entire process of building software 🤖 <br />
+Interested in ML 🌐 and AI 🕸️ Development <br />
+From design to development I love the entire process of building ML solutions 🤖 <br />
 
 
 ## 🌐Socials
