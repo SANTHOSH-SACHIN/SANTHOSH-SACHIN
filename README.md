@@ -1,6 +1,7 @@
 # 💫 About Me
 <div align="center">
-    <img src="https://media.giphy.com/media/3o6Zt1j5C2q3h1y4g0/giphy.gif" width="300" height="200" />
+    <img src="https://media.giphy.com/media/gBkbmnBw4ml0fO5fSH/giphy.gif?cid=790b7611bgyzrjwsc1v2sb2m1bfrta1lbg5o1b5ttbv3jpif&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
+    
 </div>
 
 Hey there! 👋 I’m **Santhosh Sachin** 🙋‍♂️, a passionate Developer and Engineer from Coimbatore, India. I’m currently pursuing my **Bachelor of Technology** in Computer Science and Engineering at **Amrita Vishwa Vidyapeetham**. With a strong academic as well as development background, I strive for excellence in everything I do!
@@ -21,7 +22,7 @@ I have a keen interest in **Machine Learning**, **Data Science**, **Gen-AI [Obvi
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-sachin/) or check out my projects on [GitHub](https://github.com/SANTHOSH-SACHIN). Let’s build something amazing together! 💻✨
 
 <div align="center">
-    <img src="https://media.giphy.com/media/gBkbmnBw4ml0fO5fSH/giphy.gif?cid=790b7611bgyzrjwsc1v2sb2m1bfrta1lbg5o1b5ttbv3jpif&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
+    <img src="https://media.giphy.com/media/zrmzxLMgKN8SQrkdLz/giphy.gif?cid=ecf05e47jxm2rlk7v860qky0xoend3wxb3n1nhje6sa0qppv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
     
 </div>
 
