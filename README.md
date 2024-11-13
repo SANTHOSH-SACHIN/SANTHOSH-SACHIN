@@ -1,7 +1,7 @@
 # 💫 About Me
 <div align="center">
     <img src="https://media.giphy.com/media/gBkbmnBw4ml0fO5fSH/giphy.gif?cid=790b7611bgyzrjwsc1v2sb2m1bfrta1lbg5o1b5ttbv3jpif&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
-    
+    <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=790b7611d36h9re8mca5d4not1q6bdxnupu1oaqhr4uulk5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
 </div>
 
 Hey there! 👋 I’m **Santhosh Sachin** 🙋‍♂️, a passionate Developer and Engineer from Coimbatore, India. I’m currently pursuing my **Bachelor of Technology** in Computer Science and Engineering at **Amrita Vishwa Vidyapeetham**. With a strong academic as well as development background, I strive for excellence in everything I do!
