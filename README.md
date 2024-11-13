@@ -21,7 +21,8 @@ I have a keen interest in **Machine Learning**, **Data Science**, **Gen-AI [Obvi
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-sachin/) or check out my projects on [GitHub](https://github.com/SANTHOSH-SACHIN). Let’s build something amazing together! 💻✨
 
 <div align="center">
-    <img src="https://media.giphy.com/media/l0MYt5jvJ9O9Q2n8I/giphy.gif" width="300" height="200" />
+    <img src="https://media.giphy.com/media/gBkbmnBw4ml0fO5fSH/giphy.gif?cid=790b7611bgyzrjwsc1v2sb2m1bfrta1lbg5o1b5ttbv3jpif&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
+    
 </div>
 
 # 💻 Tech Stack
@@ -38,6 +39,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=flat&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2D6.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -55,14 +58,15 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-
 ![S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
 
 ### Data Science & AI
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F20.svg?style=flat&logo=tensorflow&logoColor=%23FFFFFF)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=%23FFFFFF)
-![OpenCV](https://img.shields.io/badge/opencv-%23EB3F00.svg?style=flat&logo=openai)
-![Seaborn](https://img.shields.io/badge/seaborn-%23D55E00.svg?style=flat&)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%233B4D3D.svg?style=flat&)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&)
-![Langchain](https://img.shields.io/badge/langchain-%234ABF8D.svg?style=social)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F20.svg?style=social&)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=social&)
+![OpenCV](https://img.shields.io/badge/opencv-%23EB3F00.svg?style=social&)
+![Seaborn](https://img.shields.io/badge/seaborn-%23D55E00.svg?style=social&)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%233B4D3D.svg?style=social&)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=social&)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=social&)
+![Langchain](https://img.shields.io/badge/langchain-%234ABF8D.svg?style=social&)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=social&)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SANTHOSH-SACHIN&theme=dark&hide_border=true)<br/>
