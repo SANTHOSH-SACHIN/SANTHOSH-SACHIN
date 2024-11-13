@@ -1,26 +1,79 @@
-# 💫About Me :
-Hey 👋 I’m Santhosh Sachin 🙋‍♂️<br />
-LinkedIN : https://www.linkedin.com/in/santhosh-s-56715821b/ <br />
-A passionate Developer cum Engineer from IN <br />
-Interested in ML 🌐 and AI 🕸️ Development <br />
-From design to development I love the entire process of building ML solutions 🤖 <br />
+# 💫 About Me
+<div align="center">
+    <img src="https://media.giphy.com/media/3o6Zt1j5C2q3h1y4g0/giphy.gif" width="300" height="200" />
+</div>
+
+Hey there! 👋 I’m **Santhosh Sachin** 🙋‍♂️, a passionate Developer and Engineer from Coimbatore, India. I’m currently pursuing my **Bachelor of Technology** in Computer Science and Engineering at **Amrita Vishwa Vidyapeetham**. With a strong academic as well as development background, I strive for excellence in everything I do!
+
+## 🚀 My Journey
+I have a keen interest in **Machine Learning**, **Data Science**, **Gen-AI [Obviously :P]** and **Backend Development**. My journey has taken me through various exciting projects and internships where I've honed my skills in software engineering and data science.
+
+- **Intern at Fidelity Investments**: Developed an OpenAI-powered MS Teams assistant that reduced onboarding operations time by **80%**! 🚀
+- **AI Research Intern at Lam Research**: Implemented graph-based analytics to enhance supply chain management efficiency by **20%**. 📈
 
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_santhosh_404_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-s-56715821b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17216312/santhosh-sachin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_santhosh_404_) 
+## 🎨 Fun Facts
+- 🌍 I love participating in hackathons and coding competitions!
+- 🎨 In my free time, I enjoy designing digital art and exploring new technologies.
+- 💡 I have hosted AI workshops impacting over **300+ learners**, fostering a community of budding developers!
 
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=SANTHOSH-SACHIN&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SANTHOSH-SACHIN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH-SACHIN&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Let's Connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-sachin/) or check out my projects on [GitHub](https://github.com/SANTHOSH-SACHIN). Let’s build something amazing together! 💻✨
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SANTHOSH-SACHIN&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+    <img src="https://media.giphy.com/media/l0MYt5jvJ9O9Q2n8I/giphy.gif" width="300" height="200" />
+</div>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+# 💻 Tech Stack
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React.js](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=flat&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2D6.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS%20EKS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
+
+### Data Science & AI
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F20.svg?style=flat&logo=tensorflow&logoColor=%23FFFFFF)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=%23FFFFFF)
+![OpenCV](https://img.shields.io/badge/opencv-%23EB3F00.svg?style=flat&logo=openai)
+![Seaborn](https://img.shields.io/badge/seaborn-%23D55E00.svg?style=flat&)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%233B4D3D.svg?style=flat&)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&)
+![Langchain](https://img.shields.io/badge/langchain-%234ABF8D.svg?style=social)
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=SANTHOSH-SACHIN&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SANTHOSH-SACHIN&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH-SACHIN&theme=dark)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SANTHOSH-SACHIN)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=random)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SANTHOSH-SACHIN&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SANTHOSH-SACHIN&label=Profile%20Views)](https://visitcount.itsvg.in) 
