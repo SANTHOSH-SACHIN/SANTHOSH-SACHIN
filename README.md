@@ -57,17 +57,18 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-
 ![AWS EKS](https://img.shields.io/badge/AWS%20EKS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
 ![S3](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=flat&logo=amazonaws&logoColor=%23FFFFFF)
+![Netlify](https://img.shields.io/netlify/:projectId)
 
 ### Data Science & AI
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F20.svg?style=social&)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=social&)
-![OpenCV](https://img.shields.io/badge/opencv-%23EB3F00.svg?style=social&)
-![Seaborn](https://img.shields.io/badge/seaborn-%23D55E00.svg?style=social&)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%233B4D3D.svg?style=social&)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=social&)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=social&)
-![Langchain](https://img.shields.io/badge/langchain-%234ABF8D.svg?style=social&)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=social&)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SANTHOSH-SACHIN&theme=dark&hide_border=true)<br/>
