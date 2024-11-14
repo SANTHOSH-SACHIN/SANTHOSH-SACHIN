@@ -73,7 +73,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SANTHOSH-SACHIN&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SANTHOSH-SACHIN&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH-SACHIN&theme=dark)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SANTHOSH-SACHIN)
