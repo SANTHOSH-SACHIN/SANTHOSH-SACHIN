@@ -4,22 +4,23 @@
     <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif?cid=790b7611d36h9re8mca5d4not1q6bdxnupu1oaqhr4uulk5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
 </div>
 
-Hey there! 👋 I’m **Santhosh Sachin** 🙋‍♂️, a passionate Developer and Engineer from Coimbatore, India. I’m currently pursuing my **Bachelor of Technology** in Computer Science and Engineering at **Amrita Vishwa Vidyapeetham**. With a strong academic as well as development background, I strive for excellence in everything I do!
+Hey there! 👋 I’m **Santhosh Sachin** 🙋‍♂️, a passionate Developer and Engineer from India. I’m a CSE Undergrad ;) at **Amrita Vishwa Vidyapeetham**. With a strong academic as well as development background, I strive for excellence in everything I do!
 
 ## 🚀 My Journey
 I have a keen interest in **Machine Learning**, **Data Science**, **Gen-AI [Obviously :P]** and **Backend Development**. My journey has taken me through various exciting projects and internships where I've honed my skills in software engineering and data science.
 
-- **Intern at Fidelity Investments**: Developed an OpenAI-powered MS Teams assistant that reduced onboarding operations time by **80%**! 🚀
-- **AI Research Intern at Lam Research**: Implemented graph-based analytics to enhance supply chain management efficiency by **20%**. 📈
+- **Software Engineering Intern at Fidelity Investments**🚀
+- **AI Research Intern at Lam Research**📈
 
 
 ## 🎨 Fun Facts
+- **I Fudging love Mathhhhhh** ❤️😄
 - 🌍 I love participating in hackathons and coding competitions!
 - 🎨 In my free time, I enjoy designing digital art and exploring new technologies.
 - 💡 I have hosted AI workshops impacting over **300+ learners**, fostering a community of budding developers!
 
 ## 🌐 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-sachin/) or check out my projects on [GitHub](https://github.com/SANTHOSH-SACHIN). Let’s build something amazing together! 💻✨
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-sachin/) . Let’s build something amazing together! 💻✨
 
 <div align="center">
     <img src="https://media.giphy.com/media/zrmzxLMgKN8SQrkdLz/giphy.gif?cid=ecf05e47jxm2rlk7v860qky0xoend3wxb3n1nhje6sa0qppv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
