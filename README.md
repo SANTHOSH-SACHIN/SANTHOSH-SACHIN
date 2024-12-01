@@ -9,6 +9,7 @@ Hey there! 👋 I’m **Santhosh Sachin** 🙋‍♂️, a passionate Developer 
 ## 🚀 My Journey
 I have a keen interest in **Machine Learning**, **Data Science**, **Gen-AI [Obviously :P]** and **Backend Development**. My journey has taken me through various exciting projects and internships where I've honed my skills in software engineering and data science.
 
+Some of 'em are :
 - **Software Engineering Intern at Fidelity Investments**🚀
 - **AI Research Intern at Lam Research**📈
 
