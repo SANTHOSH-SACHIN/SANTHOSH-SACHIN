@@ -72,7 +72,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/santhosh-
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SANTHOSH-SACHIN&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SANTHOSH-SACHIN&theme=dark)<br/>
 
 
